@@ -95,7 +95,7 @@ public class LevelGeneration : MonoBehaviour
             _indexLevel++;
             if (_indexLevel >= _mapLevels.Length)
             {
-                _gameManager.WinGameWindowOpen();
+                _gameManager.Win();
             }
             else 
             {

@@ -81,7 +81,7 @@ public class GameManager : MonoBehaviour
     public void Win() 
     {
         Debug.Log("Win");
-
+        _ball.gameObject.SetActive(false);
         _paddle.GameIsStart = false;
         WinGameWindowOpen();
     }

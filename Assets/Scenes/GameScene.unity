@@ -553,16 +553,13 @@ MonoBehaviour:
   _gameManager: {fileID: 266279297}
   _brickConfig: {fileID: 11400000, guid: af8b2c5573d483e458d01a925ba5a0aa, type: 2}
   _mapLevels:
-  - _mapLevel: {fileID: 2800000, guid: 2dbef266fd051b44798630c387314663, type: 3}
-    _xSpacing: 1
-    _ySpacing: 0.5
-  - _mapLevel: {fileID: 2800000, guid: cddd25c3d063b8a46bc87f60ddb1ecb1, type: 3}
-    _xSpacing: 1
-    _ySpacing: 0.5
   - _mapLevel: {fileID: 2800000, guid: 79ff3b01323379645a19290097b56ae6, type: 3}
     _xSpacing: 1
     _ySpacing: 0.5
   - _mapLevel: {fileID: 2800000, guid: 001c31025cffd2d45bb960d1cba43f75, type: 3}
+    _xSpacing: 1
+    _ySpacing: 0.5
+  - _mapLevel: {fileID: 2800000, guid: cddd25c3d063b8a46bc87f60ddb1ecb1, type: 3}
     _xSpacing: 1
     _ySpacing: 0.5
   _brickPrefab: {fileID: 4812964973828418609, guid: 856efbaed9e38b04aa5d8c74ffef13cc, type: 3}
